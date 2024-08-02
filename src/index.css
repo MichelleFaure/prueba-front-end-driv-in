@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #121727;
+}
+thead{
+    background-color: #2b2b2b;
+}
